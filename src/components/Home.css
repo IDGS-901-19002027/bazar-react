@@ -1,0 +1,11 @@
+.titulo {
+    font-weight: 900;
+    font-size: 60px;
+}
+
+#btnSearch {
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    font-size: 20px;
+}

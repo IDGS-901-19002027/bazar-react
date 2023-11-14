@@ -1,0 +1,41 @@
+#btnSearch {
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    font-size: 15px;
+}
+
+#card {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+
+.cat-card {
+    text-align: right;
+    font-size: 12px;
+    font-weight: 900;
+}
+
+.title-card {
+    text-align: center;
+    font-size: 18px;
+    font-weight: 900;
+}
+
+.description-card {
+    text-align: center;
+    font-size: 14px;
+}
+
+.price-card {
+    margin-top: 5px;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 900;
+}
+
+.rating-card {
+    text-align: center;
+}
